@@ -1,0 +1,3 @@
+Napisz program dokonuj¹cy pomiaru temperatury 
+- Temperatura zostanie wyswietlona na wyswietlaczu 
+- Po przekroczeniu okreslonej temperatury obroci serwo o wybrany kat. 
